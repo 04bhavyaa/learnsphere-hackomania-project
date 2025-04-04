@@ -17,4 +17,5 @@ sentence_transformers
 langchain-objectbox
 flask-cors
 opencv-python 
+seaborn
 mediapipe
