@@ -19,3 +19,5 @@ flask-cors
 opencv-python 
 seaborn
 mediapipe
+SpeechRecognition
+python-dotenv
